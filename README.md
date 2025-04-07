@@ -1,3 +1,4 @@
 # shusmita_demo
 This is my 1st git repository.
-author - Shusmita Pal
+<br>
+Author - Shusmita Pal
